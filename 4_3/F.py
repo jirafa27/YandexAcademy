@@ -1,3 +1,7 @@
+#https://new.contest.yandex.ru/41244/problem?id=149944/2022_11_06/NifdzvxY59
+
+#Напишите рекурсивную функцию merge_sort, которая производит сортировку списка.
+
 def merge_sort(lst):
     if len(lst) == 1:
         return lst
